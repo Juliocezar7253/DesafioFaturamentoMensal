@@ -1,0 +1,15 @@
+C:\www\PercentualParticipacao\bin\Debug\net6.0\PercentualParticipacao.exe
+C:\www\PercentualParticipacao\bin\Debug\net6.0\PercentualParticipacao.deps.json
+C:\www\PercentualParticipacao\bin\Debug\net6.0\PercentualParticipacao.runtimeconfig.json
+C:\www\PercentualParticipacao\bin\Debug\net6.0\PercentualParticipacao.dll
+C:\www\PercentualParticipacao\bin\Debug\net6.0\PercentualParticipacao.pdb
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.csproj.AssemblyReference.cache
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.AssemblyInfoInputs.cache
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.AssemblyInfo.cs
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.csproj.CoreCompileInputs.cache
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.dll
+C:\www\PercentualParticipacao\obj\Debug\net6.0\refint\PercentualParticipacao.dll
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.pdb
+C:\www\PercentualParticipacao\obj\Debug\net6.0\PercentualParticipacao.genruntimeconfig.cache
+C:\www\PercentualParticipacao\obj\Debug\net6.0\ref\PercentualParticipacao.dll
